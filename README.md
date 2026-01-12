@@ -4,13 +4,13 @@ Türkiye'nin modern inşaat firması için profesyonel ve SEO-optimized web site
 
 ## 🎯 Özellikler
 
-- ✅ Responsive ve Modern Tasarım
-- ✅ SEO Optimized (Meta Tags, Structured Data)
-- ✅ Smooth Scrolling Animasyonları
-- ✅ Proje Galerisi (Fotoğraf ve Video Desteği)
-- ✅ İletişim Formu
-- ✅ Mobil Uyumlu
-- ✅ Performans Optimized
+-  Responsive ve Modern Tasarım
+-  SEO Optimized (Meta Tags, Structured Data)
+-  Smooth Scrolling Animasyonları
+-  Proje Galerisi (Fotoğraf ve Video Desteği)
+-  İletişim Formu
+-  Mobil Uyumlu
+-  Performans Optimized
 
 ## 🛠️ Teknolojiler
 
