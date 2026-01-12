@@ -31,9 +31,9 @@ const Footer = () => {
           <div className="footer-section">
             <h4>Sosyal Medya</h4>
             <ul className="social-links">
-              <li><a href="#" target="_blank" rel="noopener noreferrer">Facebook</a></li>
-              <li><a href="#" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-              <li><a href="#" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+              <li><a href="https://facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+              <li><a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+              <li><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
             </ul>
           </div>
         </div>

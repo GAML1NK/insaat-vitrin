@@ -1,3 +1,8 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /node_modules/
+Disallow: /build/
+
+# Sitemap
+Sitemap: https://insaat-vitrin.com/sitemap.xml
